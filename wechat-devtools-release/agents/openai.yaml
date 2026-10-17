@@ -1,0 +1,6 @@
+interface:
+  display_name: "微信小程序预览与上传"
+  short_description: "巡检、部署云函数、生成预览并上传微信体验版本"
+  default_prompt: "使用 $wechat-devtools-release 检查并上传这个微信小程序体验版。"
+policy:
+  allow_implicit_invocation: true

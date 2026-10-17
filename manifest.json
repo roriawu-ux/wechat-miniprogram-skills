@@ -1,0 +1,10 @@
+{
+  "name": "wechat-miniprogram-skill-bundle",
+  "version": "1.0.0",
+  "createdFrom": "Milestone barbershop mini program development",
+  "skills": [
+    "wechat-cloudbase-feature-engineering",
+    "wechat-subscription-message-ledger",
+    "wechat-devtools-release"
+  ]
+}

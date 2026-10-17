@@ -1,0 +1,6 @@
+interface:
+  display_name: "微信云开发功能工程"
+  short_description: "实现并验证小程序与 CloudBase 的端到端功能改动"
+  default_prompt: "使用 $wechat-cloudbase-feature-engineering 实现并验证这个微信小程序功能。"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "微信订阅消息账本"
+  short_description: "实现一次性订阅授权次数、原子扣减与失败补偿"
+  default_prompt: "使用 $wechat-subscription-message-ledger 设计并检查这个订阅消息流程。"
+policy:
+  allow_implicit_invocation: true
